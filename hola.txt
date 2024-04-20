@@ -1,1 +1,2 @@
 hola buenas tardes todo bien, me llamo julian martin linzalata y este es un archivo de prueba en la siguiente línea de código del editor de texto de vim voy a escribir algo nuevo, pero en el posterior commit.
+HOLA BUENAS TARDES DE NUEVO ESTE ES EL MENSAJE QUE VOY A COMMITEAR DESPUES DE HACER EL PRIMER COMMIT O SEA ESTE MENSAJE CORRESPONDE AL SEGUNDO COMMIT MUAJAJAJAJAJJA
