@@ -14,19 +14,6 @@ header {
     text-align: center;
 }
 
-/* Estilos del menú de navegación */
-nav {
-    background-color: #444;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-}
-
-/* Estilos de las secciones */
-section {
-    padding: 20px;
-}
-
 /* Estilos del pie de página */
 footer {
     background-color: #555;
