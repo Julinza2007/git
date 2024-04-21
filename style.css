@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #090cf3;
     margin: 0;
     padding: 0;
 }
@@ -25,5 +25,13 @@ footer {
 img{
 height: 500px;
 width: 70%;
+text-align: center;
 }
 
+#bienvenida{
+text-align:center;
+}
+
+#amarillo{
+    background-color:#f8e004f6
+}
