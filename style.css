@@ -21,9 +21,9 @@ footer {
 }
 
 #win_error img {
-    height: 500px;
-    width: 600px;
-    border-radius: 70px;
+    height: 300px;
+    width: 500px;
+    border-radius: 100px;
 }
 
 #bienvenida{
@@ -36,6 +36,6 @@ text-align: center;
 
 #amarillo{
     background-color:#f8e004f6;
-    padding: 100px;
+    padding:100px;
 }
 
