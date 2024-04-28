@@ -16,12 +16,15 @@ footer {
     text-align: center;
 }
 
-#win_error img{
-height: 500px;
-width: 600px;
-border-radius: 50px;
-text-align:center;
-display:flex;
+#win_error {
+    text-align: center;
+}
+
+#win_error img {
+    height: 500px;
+    width: 600px;
+    border-radius: 50px;
+    display: inline-block; /* Para que la imagen se centre correctamente */
 }
 
 #bienvenida{
