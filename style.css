@@ -21,11 +21,8 @@ footer {
 
 img{
 height: 500px;
-width: 70%;
+width: 600px;
 border-radius: 50px;
-display: flex;
-justify-content: center;
-align-items: center;
 text-align:center;
 }
 
