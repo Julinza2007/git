@@ -19,11 +19,12 @@ footer {
     text-align: center;
 }
 
-img{
+#win_error img{
 height: 500px;
 width: 600px;
 border-radius: 50px;
 text-align:center;
+display:flex;
 }
 
 #bienvenida{
