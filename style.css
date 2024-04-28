@@ -23,8 +23,7 @@ footer {
 #win_error img {
     height: 500px;
     width: 600px;
-    border-radius: 50px;
-    display: inline-block; /* Para que la imagen se centre correctamente */
+    border-radius: 70px;
 }
 
 #bienvenida{
@@ -37,6 +36,6 @@ text-align: center;
 
 #amarillo{
     background-color:#f8e004f6;
-    padding: 10%;
+    padding: 100px;
 }
 
