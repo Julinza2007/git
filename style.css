@@ -31,7 +31,12 @@ footer {
 text-align:center;
 }
 
+.text_centrado {
+text-align: center;
+}    
+
 #amarillo{
     background-color:#f8e004f6;
     padding: 10%;
 }
+
