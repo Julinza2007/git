@@ -10,28 +10,33 @@ main(){
 	scanf("%f", & opcion_cuo);
 	
 	
-	if (cliente == 1)
-	{
-		descuento= prec_boleto * 15/100;
-		monto_total= prec_boleto - descuento;
-	}
 	
-		printf("El monto total a pagar es de: %f", monto_total);
-	
-	if (opcion_cuo== 1 )
+	if (opcion_cuo == 1)
 	{
-		monto_cuo= prec_boleto * 10/100;
-		monto_total= prec_boleto + (monto_cuo * 3);
-		printf("Usted eligio 3 cuotas");
+		monto_total= prec_boleto * 1.10;
+		monto_cuo= monto_total / 3;
+		
 	}
 	else if (opcion_cuo == 2)
 	{
-		monto_cuo= prec_boleto * 20/100;
-		monto_total= prec_boleto + (monto_cuo * 6);
-		printf("Usted eligio 6 cuotas");
+		monto_total= prec_boleto * 1.2;
+		monto_cuo= monto_total / 6;
 	}
 	
-	printf("El valor de cada cuota es")
+	printf("El monto total a pagar es de: %f \n", monto_total);
+
+	if (cliente == 1)
+	{
+		descuento= prec_boleto * 0.15;
+		monto_total = monto_total - descuento;
+		printf("El descuento por ser cliente habitual es %f \n", descuento);
+	}
+	
+	else {
+		printf("Usted no tiene descuento \n");
+	}
+	printf("El monto de las cuotas es de %f \n", monto_cuo);
+	
 	
 
 
